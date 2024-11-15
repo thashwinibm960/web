@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #a99f9f;
+}
+header, footer {
+    background-color: #12caef;
+    color: rgb(20, 221, 67);
+    text-align: center;
+    padding: 10px;
+}
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(68, 14, 244);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(226, 16, 226, 0.1);
+}
+.text {
+    hanging-punctuation: first;
+    hyphens: auto;
+    letter-spacing: 2px;
+    line-break: strict;
+    overflow-wrap: break-word;
+    tab-size: 4;
+    text-align: justify;
+    text-indent: 30px;
+    text-transform: capitalize;
+    text-wrap: balance;
+    white-space: pre-line;
+    word-break: break-word;
+    word-spacing: 5px;
+}
+ .text-box{
+   
+    hyphenate-character: "-";
+    hyphenate-limit-chars: 2 2 3;
+    text-align-last: center;
+    text-spacing-trim: trim;
+    text-wrap-mode:auto;
+    text-wrap-style:auto;
+    white-space-collapse:break-spaces;
+   
+}
+  

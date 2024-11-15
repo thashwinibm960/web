@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+}
+header, footer {
+    background-color: #008080;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.content p {
+    font: 100;
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+}
